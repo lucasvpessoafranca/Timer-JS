@@ -2,9 +2,15 @@
 Timer desenvolvido em JS
 ![Tela inicial ](https://github.com/lucasvpessoafranca/Timer-JS/blob/main/timer/img/Captura%20de%20tela%202021-11-26%20202405.png)
 
+Iniciar:
+
 ![iniciar](https://github.com/lucasvpessoafranca/Timer-JS/blob/main/timer/img/iniciar.png)
 
+Pausar:
+
 ![pausar](https://github.com/lucasvpessoafranca/Timer-JS/blob/main/timer/img/pausar.png)
+
+Zerar:
 
 ![zerar](https://github.com/lucasvpessoafranca/Timer-JS/blob/main/timer/img/zerar.png)
  
