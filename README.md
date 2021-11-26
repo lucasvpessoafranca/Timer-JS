@@ -4,7 +4,7 @@ Timer desenvolvido em JS
 
 ![iniciar](https://github.com/lucasvpessoafranca/Timer-JS/blob/main/timer/img/iniciar.png)
 
-![pausar](https://github.com/lucasvpessoafranca/Timer-JS/blob/main/timer/img/pausar.png
+![pausar](https://github.com/lucasvpessoafranca/Timer-JS/blob/main/timer/img/pausar.png)
 
 ![zerar](https://github.com/lucasvpessoafranca/Timer-JS/blob/main/timer/img/zerar.png)
  
